@@ -1,0 +1,5 @@
+let a = 5;
+  let circum = 2 * (22 / 7) * a;
+  
+
+  console.log(circum.toFixed(2));
